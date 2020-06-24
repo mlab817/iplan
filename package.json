@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@markspec/vuepress-plugin-footnote": "^1.1.1",
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs --host localhost",
+    "build": "vuepress build docs"
+  }
+}
