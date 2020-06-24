@@ -7,5 +7,8 @@
   "scripts": {
     "dev": "vuepress dev docs --host localhost",
     "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "firebase": "^7.15.4"
   }
 }
